@@ -14,5 +14,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Score.unity
     guid: 92f953a45fcb6af438759bedbe47a992
-  m_configObjects:
-    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 700c8df5c2d1adf49bd9b1282d92203c, type: 2}
+  m_configObjects: {}

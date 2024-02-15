@@ -4,10 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Enemy
-  - PlayerBullet
-  - SmallHeal
   - BigHeal
+  - Enemy
+  - SmallHeal
+  - PlayerBullet
   layers:
   - Default
   - TransparentFX

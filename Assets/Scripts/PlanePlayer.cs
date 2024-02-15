@@ -60,7 +60,7 @@ public class PlanePlayer : MonoBehaviour
             DealDamage();
         }
         else if (collision.gameObject.CompareTag("SmallHeal")){
-            Heal(1);
+            Heal(2);
         }
         else if (collision.gameObject.CompareTag("BigHeal")){
             Heal(12);

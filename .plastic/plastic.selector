@@ -1,4 +1,0 @@
-repository "Aviator05@Meliodas1306@cloud"
-  path "/"
-    br "/main"
-    co "/main"
